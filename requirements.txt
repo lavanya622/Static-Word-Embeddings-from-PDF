@@ -1,0 +1,6 @@
+numpy
+pypdf
+gensim
+staticvectors
+jupyter
+notebook
